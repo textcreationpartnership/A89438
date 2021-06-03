@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of prophesies revealed, by which the restoring of K. Charls the Second to the government of these three nations and to extraordinary glory and greatness is manifoldly, plainly, and fully convinced by several places and prophesies in the scriptures. And by the infallible demonstrations of reason it self.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89438</idno><idno type="EEBO-CITATION">99867335</idno>
+  <idno type="VID">168852</idno>
+  <idno type="EEBO-PROQUEST">2240917304</idno>
+  
+            <idno type="STC">Wing M3190</idno>
+            <idno type="STC">Thomason E1021_6</idno>
+            <idno type="STC">ESTC R208380</idno>
+            <idno type="PROQUEST">99867335</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867335e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1021[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of prophesies revealed, by which the restoring of K. Charls the Second to the government of these three nations and to extraordinary glory and greatness is manifoldly, plainly, and fully convinced by several places and prophesies in the scriptures. And by the infallible demonstrations of reason it self.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Restoration, 1660-1688 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168852:1"/>
+            <p>THE MYSTERY OF Prophesies revealed, By which the Restoring of K. Charls the Second TO THE Government of these Three Nations and to extraordinary Glory and Greatness is manifoldly, plainly, and fully convinced by several plates and Prophesies in the Scriptures. And by the infallible Demonstrations of Reason it self.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown, used as a printer's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDO<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1660,</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:168852:2"/>
+            <p>
+               <figure>
+                  <head>C P</head>
+                  <q xml:lang="ger">ICH DIEN</q>
+                  <figDesc>coronet of the Prince of Wales adorned with three ostrich feathers (Mc Kerrow no. 354)</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:168852:2"/>
+            <head>The Mistery of all true Prophesies faith<g ref="char:EOLhyphen"/>fully unlocked, and opened, by which the speedy restoring of <hi>King Charles</hi> the second out of banish<g ref="char:EOLhyphen"/>ment into a Throne of established Advance<g ref="char:EOLhyphen"/>ment, is certainly foreshown.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E shall in the first place begin with that in the se<g ref="char:EOLhyphen"/>vent of <hi>Daniel, verse</hi> 24. Where we shall find that the Beast or Horn was diverse from the ten hornes; So is this Government from all Kings and Governments in Christendome; For the ten horns were all <hi>Monarchyes,</hi> that is to say Kingly Governments, but this hath been of late an <hi>Anarchy,</hi> called commonly a Common<g ref="char:EOLhyphen"/>wealth. There are indeed other Common-wealths, as that of the <hi>Papists</hi> at <hi>Venice,</hi> the Common-wealth at <hi>Genoa,</hi> and the Com<g ref="char:EOLhyphen"/>mon-wealth of the <hi>Protestants,</hi> in the Nether-lands, and at <hi>Geneva,</hi> but in none of them there hath been such an Arbitrary Govern<g ref="char:EOLhyphen"/>ment as in this, which comming near to the Heathen <hi>Roman,</hi> and the <hi>Mahometan</hi> Common-wealth for cruelty, and nearer to that Government of the Devil in Hell, is a Government without any President, except it be hell it self.</p>
+            <p>And as the raigning of the Beast continued but for a time, and times, and half a time, So hath this late Government in <hi>England,</hi> the first began on the third of <hi>Novem.</hi> 1640. With the rise of the Beast, but was not visible until the Loyal Members, separated from those of the Beast, and <hi>Robert</hi> Earl of <hi>Essex, July</hi> the twelfth 1642 was voted the first General to this Monster, this first Reign, or this first time was but a short day, reaching not full two years and an half to an end, and only wounded the witnesses and so went out. The second begun Decemb. 31. 1644. and was the day time of Sir <hi>Thomas Fairfax,</hi> afterwards Lord <hi>Fairfax,</hi> the Second General, which continued five years and almost an half, but it was but a short time though it reached beyond the death of both the Wit<g ref="char:EOLhyphen"/>nesses. The third began <hi>June</hi> twenty six, in the year 1650. and was the time or days of <hi>Oliver Crumwel,</hi> called afterwards the Lord Protector, the third General which continued longest of the three, for it continued above eight years, and so was a long
+<pb n="4" facs="tcp:168852:3"/> day, yet but a day, or as a short time, during which the corps of the Witnesses lay all the while dead, and unburied in the streets of the great City. The time, but of the false time, began on the fourth of <hi>September</hi> 1658. And it was the strides time of Dapper <hi>Dick,</hi> otherwise <hi>Richard; Cromwels</hi> Son, the Second Protector, or the half General, which continued but half an year, and expi<g ref="char:EOLhyphen"/>red ever since this Beast, or fatal monster hath lain under a des<g ref="char:EOLhyphen"/>perate Ague, or tottering Earthquake, which will shortly prove to be the utter ruine of his power.</p>
+            <p>And as that little horn in the seventh of <hi>Daniel,</hi> was said to be a Beast, a false Prophet, and the Son of perdition, which was de<g ref="char:EOLhyphen"/>prived of his dominion, and consumed and destroyed unto the end; So no doubt but the same Monster in its due time, will ar<g ref="char:EOLhyphen"/>rive unto the same end, for the three days and a half being ex<g ref="char:EOLhyphen"/>pired, and the Earthquake comming which shall shake him in pie<g ref="char:EOLhyphen"/>ces, what can be expected every day, but the destruction of those persons that governed in them; And according to the Prophesie is it not already come to pass, for where is this Rump, or rotten Members of Parliament? where is this imperfect b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy of the Beast? Have not the same horns that set it up, that heretofore fought for it, and defend it, pluckd it down again and again, and again, and made it destitute, and naked of all its dignity, and all the pompe which they procured for it, and where are now the horns of the Beast, and the whole power of this Monsters Army? are they not under an Earthquake tottering, and reeling to, and fro, to day friends, and to morrow great Enemies, <hi>Lambert</hi> against <hi>Fleetwood,</hi> and <hi>Fleetwood</hi> against <hi>Lambert,</hi> and with much adoe both piecing together against <hi>Monck,</hi> and <hi>Hazlerigg</hi> against them all, and the City against him too? But suppose it were pos<g ref="char:EOLhyphen"/>sible that they should ocne more all agree, as indeed there are now not the least probabilities of it, yet after these closings, and clashings, the Mountain must break at last, and the Witnesses that were dead and lay in the streets of the great City <hi>Shall recoive-breath,</hi> as it is in the <hi>Revelations.</hi>
+            </p>
+            <p>This great City is the <hi>Roman</hi> Empire, and the streets are the several Kingdomes thereunto belonging, whereof <hi>Jury</hi> where our Lord was crucified, was one of them, and this of <hi>England</hi> where <hi>Charles</hi> the First was beheaded is another and the Countries of <hi>France, Flanders, Germany,</hi> and <hi>Holland</hi> where the Corps of the
+<pb n="5" facs="tcp:168852:3"/> Witnesses lay were others. The Corpes or the bodies of the Wit<g ref="char:EOLhyphen"/>nesses is <hi>Charles</hi> the Second, the succeeding King, and the Bishops of the Church, who having Authority from God, are said to be his Witnesses, and wanting power to execute their Authority are said to be but dead Corpes; Now when the Beast of the bottom<g ref="char:EOLhyphen"/>less pit prevailed, and had killed the Witnesses in being, the heirs of them as you do read it in the <hi>Revelations</hi> were carried away into a place of security, on two wings of an Eagle, this Eagle sig<g ref="char:EOLhyphen"/>nifyeth the <hi>Roman</hi> Empire which carryeth an Eagle in its stand<g ref="char:EOLhyphen"/>ard, and they by course preserved the King, and his flying Clergy, who seemed like the woman persecuted in the Wilderness, and the Dragon sent out water out of his mouth like a Flood, to perse<g ref="char:EOLhyphen"/>cute this woman, by which is meant the Dragon sent poyson out of <hi>England,</hi> after the King and his little company, to swallow them up, which they attempted by several ways, but because they could not effect it, they fell upon the rest of the seed which remained at home, and by Imprisonment, Murder, Sequestration, and Exile, they persecuted all who were found to keep the Commandment of God; But this persecution lasted not long, for old <hi>Cromwell</hi> who raised this persecution, and for nothing but his own plea<g ref="char:EOLhyphen"/>sure, Murdered the reverend Doctor <hi>Heuit,</hi> the Noble Sir <hi>Henry Slingsby</hi> and others, and who Imprisoned heaps of Innocents, was quickly after smitten by God, with a Regiment of diseases at once, after whom his Son, and Successor not staying long enough to be warm in his robes, was deposed by those hornes that had advan<g ref="char:EOLhyphen"/>ced him, and wanted opportunity to show whether he had any teeth or not, since which the whole Horn of the Beast have been so vexed, and disturbed with a difference betwixt their own hoofs and hairs, and a quarelling betwixt the tayle and eares, that they have not had the leisure to hatch the mischiefes they had conce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved; And now the Earthquake increasing, <hi>Fleetwood</hi> and <hi>Desbo<g ref="char:EOLhyphen"/>rough</hi> being fallen aside, and the new building of the Commitee of Safety turned upside downwards, what can be expected but that this Monster shall be destroyed; For the King and Clergy having layn a long time as it were dead, being now in greater hopes then ever of being restored, may be said to have the spirit of life in them againe, and to stand upon their feet, and there are voyces from Heaven, that is from the disconsolate Mem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers of the Church called Heaven, saying come up hither, so that all good men by
+<pb n="6" facs="tcp:168852:4"/> their helping hands, and their prayers furthering it; the King, and the Clergy are ascended, although that as yet, it is but in a Cloud, that is, darkly, and not fully out of their calamities.</p>
+            <p>The time, and times, and half time being thus ended; Behold wherein the seventh of <hi>Daniel,</hi> there commeth one like the Son of man riding upon white clouds in heaven; And the Antient of days shall give him an everlasting Kingdome, This Antient of days is doubtless the Lord Christ. The clouds do signifie calamities; The whiteness of them implyes Innocency, and the riding on them doth import a Command or Victory over them; And by <hi>David</hi> the Servant of the Lord, who is to be the great Deliverer of the Jews, is doubtles meant <hi>Charles</hi> the Second, as evidently may ap<g ref="char:EOLhyphen"/>pear by these following Demonstrations.</p>
+            <p>For First, If his Father was the head of the slain Witnesses, who shall be the head of those that rise from the dead; but the Son, who is the true heir both of his Fathers Name, Virtues, and Au<g ref="char:EOLhyphen"/>thority? Who can better or more properly be the Witnesses, raigning but those who are the Witnesses suffering? And who are they but the King his Court, and Clergy, the Corps that lye unburied in the street.</p>
+            <p>Secondly what King except our Soveraign, who ought to be, and is another King <hi>David,</hi> did ever ride on so many clouds, that is; on so many calamities, what man but he then can be the man on the cloud, that is to be advanced by the Antient of days?</p>
+            <p>Thirdly, What man was ever more like unto the Son of man then this sacred King, who, First of all, was born to be a King with him; Secondly, he was pointed out as he was by an extrordi<g ref="char:EOLhyphen"/>nary Star. Thirdly, pursued into a worse condition then Birds, and Foxes with him. Fourthly slandered for a freind to <hi>Papists,</hi> and <hi>Malignants,</hi> as the Son of man was of being a friend to <hi>Pub<g ref="char:EOLhyphen"/>licans,</hi> and <hi>Sinners.</hi> Fifthly, Slandered for a <hi>Sabbath-breaker.</hi> Sixthly for a <hi>Deceiver.</hi> Seventhly, Slandered for being a <hi>Traytor</hi> to his Country. Eighthly, Was driven (as the Son of man into <hi>Aegypt</hi>) so was he into the North, and the furthest parts and bor<g ref="char:EOLhyphen"/>ders of his Kingdome for his safety.</p>
+            <p>This relation may be spoken of the young prince now at Brus<g ref="char:EOLhyphen"/>sels, as he may be resembled to the Son of man, let us see how the comparison in these proceeding observations may hold with his Father. First, He was persecuted under pretence of the peoples
+<pb n="7" facs="tcp:168852:4"/> liberty; So was the Son of man. Secondly, it was followed with a Command, that all men should discover where he was, so was Christ. Thirdly, He was bought, and sold for mony, so was he. Fourthly, He was taken, Imprisoned, and tryed for his life at a High Courr of Justice, so was Christ also. Fifthly, He was con<g ref="char:EOLhyphen"/>demned by his own Subjects, in all, just as he was; Sixthly, He was railed on by the people and Soldiers, crying <hi>Justice, Justice</hi> against him, as they cryed out against our Saviour, <hi>Crucifie him, Crucifie him.</hi> Sevently, He was so mocked, and had just such Ene<g ref="char:EOLhyphen"/>mies; Lastly, he dyed, was lamented and buried like him, why then should he not raign with him, yea and that extroardinarily, since the resemblance all along was so extraordinary.</p>
+            <p>But let us return in the comparison to the Prince again, what man ever was more like unto Gods servant <hi>David,</hi> then this bles<g ref="char:EOLhyphen"/>sed servant of the Lords, who had First such Enemins to deal with. Secondly, Such persecutions both at home and beyond the Seas as he. Thirdly, who in the same manner was intertained by Forraigners, and Papists, as he was by the Heathens. Fourthly, Called every where plain <hi>Charles Steuart,</hi> as he was the Son of <hi>Jesse.</hi> Fifthly, Who held so honorably to the Immitation of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> Vertues, Witness his denying to licence the killing of <hi>Crom<g ref="char:EOLhyphen"/>wel,</hi> when opportunity was offered, Witness also the keeping of his faith, though he lived amongst Papists, as <hi>David</hi> amongst the Idolaters, who therefore can be this servant <hi>David</hi> which is spoken of by the Prophet that should deliver the Jewes, but this man only, for the natural line of David being extinct and ending in Christ, it was by Chris<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> translated from the natural into the spiritual stock. This therefore cannot be understood so much by some of <hi>Davids</hi> prosterity as by this noble Prince.</p>
+            <p>But to proceed, doth not the Scripture point at him very neerly when it saith in one place, That the Name of the Lord should be brought by him to the Jewes, and so come from far? And again when it saith, That the ity from whence this great King shall come is as <hi>Mount Sion,</hi> that shall be beautiful for scituation, and the joy of the whole Earth, A City that sitteth not on the South fide of <hi>Jerusalem,</hi> as the Jews <hi>Sion</hi> did, but on the sides of the North of Christendome, even as the Church of <hi>England</hi> at this day doth, being distinguished from all the world, and very far from <hi>Judea,</hi> for <hi>England</hi> exactly and only is neither too much
+<pb n="8" facs="tcp:168852:5"/> Southerly, nor too much <hi>Northerly,</hi> neither East, nor full West, but on the Western side of the North, and therefore the King of <hi>England</hi> must needs be the <hi>David,</hi> or the King here spoken of, and of all Kings that ever were in <hi>England,</hi> this present King must needs be the man.</p>
+            <p>You shall again observe him to be a person of extraordinary suf<g ref="char:EOLhyphen"/>ferings, and that in his youth and innocence, and to be the Son of an innocent sufferer, which are both of them extraordinary, which being the usual path way and the Method of God unto prefer<g ref="char:EOLhyphen"/>ment, we may conclude him to be the undoubted person, and heir marked out for extrordinary Glory and greatness. Again he hath been extraordinarily preserved from the paw of the Lion, during all the wars in his Fathers time, and from many desperate dangers both before, at, and after <hi>Worcester</hi> fight, and lately from many attempts against him in <hi>Brabant,</hi> and <hi>Flanders,</hi> by which it most evidently doth appear, that he is a person most dear in Gods eye. and preserved for some extraordinary Advancement. He s a per<g ref="char:EOLhyphen"/>son again of extraordininary Faith and Vertue, and fit for such extraordinary service, as the governing of these three Nations, and restoring the ruined Church, and lastly, he is a person indued with an extraordinary guift of curing diseases, but by touch only as is manifest to all the world, and therefore to be declared the <hi>David</hi> of these latter days, the man spoken of in the Revelation, riding on the clouds of Heaven, and ordained to have the Go<g ref="char:EOLhyphen"/>vernment over Nations being as eminent for his Vertue, as for the righteousness of his cause, and as famous a Saint, as a Sufferer.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
